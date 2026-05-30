@@ -1,16 +1,4 @@
 # Collection-of-C-
 
 
-Short & simple:
-
-📁 A collection of C++ programs for learning and everyday practice — from basics to beyond.
-
-
-With a bit more detail:
-
-🚀 My C++ learning journey — a growing collection of programs covering core concepts, problem-solving, and hands-on practice. Great for beginners getting started with C++.
-
-
-Minimal & clean:
-
-💻 C++ practice files | Learning by doing — one program at a time.
+📚 A beginner-friendly collection of C++ programs built while learning the language from the ground up. This repository covers a wide range of topics — from basic syntax, loops, and functions to more hands-on problem-solving exercises. Whether you're just starting out with C++ or looking for simple reference snippets, feel free to explore, learn, and grow along with this repo!
